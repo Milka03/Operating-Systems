@@ -1,3 +1,0 @@
-Directory: /home/ewroblewska/projects/lab1
-Directory analysis:
-Biggest file: /home/ewroblewska/projects/lab1/task-A/taskA with size: 12864
